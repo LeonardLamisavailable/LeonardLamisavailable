@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Leonard.
-#### Software Design and Development
+#### Software Developer in Manchester, United Kingdom 🇬🇧
 I possess an impressive arsenal of skills in HTML, CSS and JavaScript.👨🏻‍💻 I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaing interfaces through writing clean and optimased code and utilising cutting-edge development tools and techniques. I am a dynamic team player who thrives in collaborating with cross-functional teams to produce outstanding web applications. 💯
 
 Skills: REACT / JS / HTML / CSS / PYTHON
